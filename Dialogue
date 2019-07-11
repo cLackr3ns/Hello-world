@@ -1,2 +1,3 @@
 def hello(name, prompt):
-  
+  print(name,':',prompt)
+hello('Marvin','What you love you devour, what I covet I keep.')
